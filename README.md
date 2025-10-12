@@ -8,7 +8,7 @@ During my BSc, I have worked on graph mining in the context of social networks. 
 
 ### Contact
 
-I allways love to hear from old friends and connect with new people. Just drop me an email!
+I allways love to hear from old friends and connect with new people. Just drop me an email at `first (dot) last (at) epfl (dot) ch`.
 
 ### Starting Point
 
