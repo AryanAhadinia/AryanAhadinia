@@ -18,7 +18,7 @@ During my BSc, I have worked on graph mining in the context of social networks. 
 
 #### Teaching
 
-During my BSc, I had the chance to engage in teaching as a TA and Head TA. When I was Head-TA of CE-282 Linear Algebra, I have created a [persian LaTeX template for assignments](https://github.com/AryanAhadinia/persian-assignment-template) then, which is now used across several courses there. Feel free to change or adopt it for your usage.
+During my BSc, I had the chance to engage in teaching as a TA and Head TA. When I was Head-TA of _CE-282: Linear Algebra_, I have created a [persian LaTeX template for assignments](https://github.com/AryanAhadinia/persian-assignment-template) then, which is now used across several courses there. Feel free to change or adopt it for your usage.
 
 ### Starting Point
 
