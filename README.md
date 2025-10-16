@@ -2,9 +2,23 @@
 
 This is Aryan. I'm a computer sciecne student with a focus on Machine Learning.
 
-### Dev for Research
+### What I'm doing Now?
+
+I'm currently master of CS student at EPFL. As a part of my studies, I'm now doing a six month internship at Oracle Labs Switzerland.
+
+### Background
+
+#### Education
+
+I have previosuly obtained my BSc in computer engineering at Sharif University of Technology.
+
+#### Research
 
 During my BSc, I have worked on graph mining in the context of social networks. We were mainly interested in applying probablistic methods on time-series data. We published two articles then, namely, [DiffStru](https://github.com/maryram/DiffStru/) and [DANI](https://github.com/AryanAhadinia/DANI/).
+
+#### Teaching
+
+During my BSc, I had the chance to engage in teaching as a TA and Head TA. I have created a [persian LaTeX template for assignments](https://github.com/AryanAhadinia/persian-assignment-template) then, which is now used across several courses there. Feel free to change or adopt it for your usage.
 
 ### Starting Point
 
