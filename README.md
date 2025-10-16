@@ -8,7 +8,7 @@ During my BSc, I have worked on graph mining in the context of social networks. 
 
 ### Starting Point
 
-I've started programming at age 15 at Allameh Helli Tehran High School. A [graphical Hanoi towers solver](https://github.com/AryanAhadinia/hanoi/) was my first non-toy programming artifact at 2016-2017. I came across that code years after and decided to record it on my GitHub.
+I've started programming at age 15 at Allameh Helli Tehran High School. A [graphical Hanoi towers solver](https://github.com/AryanAhadinia/hanoi/) was my first programming artifact at 2016-2017 that was not ultimate learning toy. 😅
 
 ### Contact
 
