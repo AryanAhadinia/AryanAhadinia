@@ -6,6 +6,12 @@ This is Aryan. I'm a computer sciecne student with a focus on Machine Learning.
 
 I'm currently master of CS student at EPFL. As a part of my studies, I'm now doing a six month internship at Oracle Labs Switzerland.
 
+### Open Source Contributions
+
+Notablely, I have contributed to the following open source projects.
+
+- [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar)
+
 ### Background
 
 #### Education
