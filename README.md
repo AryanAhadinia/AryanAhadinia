@@ -4,7 +4,7 @@ This is Aryan. I'm a computer sciecne student with a focus on Machine Learning.
 
 ### What I'm doing Now?
 
-I'm currently master of computer science student at EPFL - Swiss Federal Technology Institute of Lausanne. As a part of my studies, I'm now doing a six month internship at Oracle Labs Switzerland.
+I'm currently master of computer science student at EPFL. As a part of my studies, I'm now doing a six month internship at Oracle Labs Switzerland.
 
 ### Open Source Contributions
 
