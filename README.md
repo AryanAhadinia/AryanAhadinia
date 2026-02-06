@@ -10,7 +10,7 @@ I'm currently master of computer science student at EPFL. As a part of my studie
 
 Notablely, I have contributed to the following open source projects.
 
-- [oracle/wayflow](https://github.com/oracle/wayflow)
+- [oracle/wayflow](https://github.com/oracle/wayflow) (during my internship at Oracle)
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar)
 
 ### Background
