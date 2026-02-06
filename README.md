@@ -13,24 +13,6 @@ Notablely, I have contributed to the following open source projects.
 - [oracle/wayflow](https://github.com/oracle/wayflow) (during my internship at Oracle)
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar)
 
-### Background
-
-#### Education
-
-I have previosuly obtained my BSc in computer engineering at Sharif University of Technology.
-
-#### Industry
-
-I have done a six month internship at Oracle, Zürich, Switzerland in 2025 during my masters. I have worked on LLM/agents there as a mamber of WayFlow team.
-
-#### Research
-
-During my BSc, I have worked on graph mining in the context of social networks. We were mainly interested in applying probablistic methods on time-series data. We published two articles then, namely, [DiffStru](https://github.com/maryram/DiffStru/) and [DANI](https://github.com/AryanAhadinia/DANI/).
-
-#### Teaching
-
-During my BSc, I had the chance to engage in teaching as a TA and Head TA. When I was Head-TA of _CE-282: Linear Algebra_, I have created a [persian LaTeX template for assignments](https://github.com/AryanAhadinia/persian-assignment-template) then, which is now used across several courses there. Feel free to change or adopt it for your usage.
-
 ### Starting Point
 
 I've started programming at age 15 at Allameh Helli Tehran High School. A [graphical Hanoi towers solver](https://github.com/AryanAhadinia/hanoi/) was my first programming artifact at 2016-2017 that was not an ultimate learning toy. 😅
