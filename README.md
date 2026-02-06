@@ -4,7 +4,7 @@ This is Aryan. I'm a computer sciecne student with a focus on Machine Learning.
 
 ### What I'm doing Now?
 
-I'm currently master of computer science student at EPFL. As a part of my studies, I'm now doing a six month internship at Oracle Labs Switzerland.
+I'm currently master of computer science student at EPFL.
 
 ### Open Source Contributions
 
@@ -18,6 +18,10 @@ Notablely, I have contributed to the following open source projects.
 #### Education
 
 I have previosuly obtained my BSc in computer engineering at Sharif University of Technology.
+
+#### Industry
+
+I have done a six month internship at Oracle, Zürich, Switzerland in 2025 during my masters. I have worked on LLM/agents there as a mamber of WayFlow team.
 
 #### Research
 
