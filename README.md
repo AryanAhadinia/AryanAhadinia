@@ -1,10 +1,6 @@
 ## Hi 👋
 
-This is Aryan. I'm a computer sciecne student with a focus on Machine Learning.
-
-### What I'm doing Now?
-
-I'm currently master of computer science student at EPFL.
+This is Aryan. I'm currently master of computer science student at EPFL. My focus is generally on machine learning.
 
 ### Open Source Contributions
 
